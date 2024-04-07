@@ -9,13 +9,13 @@ nlp = spacy.load("en_core_web_sm")
 personal_pronouns = ['i', 'me', 'you', 'he', 'she', 'it', 'we', 'us']  # removed 'they', 'them'
 
 
-def create_sub_phrases(X):
+def create_sub_phrases(data):
     """Returns lists of tuple phrases"""
     wave_1 = []
     wave_2 = []
 
-    for i in tqdm(range(len(X))):
-        sente = nlp(X.iloc[i])
+    for i in tqdm(range(len(data))):
+        sente = nlp(data.iloc[i])
         for token in sente:
             noun = ''
             adj = ''
