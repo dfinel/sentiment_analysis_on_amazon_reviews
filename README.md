@@ -1,8 +1,6 @@
 # Amazon Customer Reviews Sentiment Analysis
 ==============================
 
-# Project Title
-
 ## Table of Contents
 1. [Project Overview](#project-overview)
 2. [Installation and Setup](#installation-and-setup)
