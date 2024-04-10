@@ -1,9 +1,7 @@
 # Amazon Customer Reviews Sentiment Analysis
 ==============================
-![img](https://github.com/pragyy/datascience-readme-template/blob/main/Headerheader.jpg)
 
 # Project Title
-![contributors](https://img.shields.io/github/contributors/pragyy/datascience-readme-template) 
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
