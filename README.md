@@ -11,7 +11,7 @@
     - [Data Acquisition](#data-acquisition)
     - [Data Preprocessing](#data-preprocessing)
 5. [Project Organization](#project-organization)
-6. [Results and Evaluation](#results-and-evaluation)
+6. [Models Results and Evaluation](#models-results-and-evaluation)
 7. [Future work](#future-work)
 8. [Acknowledgments](#acknowledgments)
 9. [License](#license)
@@ -86,7 +86,7 @@ Data preprocessing steps involved cleaning the text data by removing special cha
 ├── requirements.txt
 ```
 
-# Results and Evaluation
+# Models Results and Evaluation
 
 ![Alt text](models_results_evaluation.jpg)
 
