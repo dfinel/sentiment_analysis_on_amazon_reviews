@@ -98,7 +98,7 @@ Potential future work:
 # Acknowledgments
 ​ITC - Israel Tech Challenge
 
-Nick Mishkin [Linkin link](https://www.linkedin.com/in/nickmishkin/), Dan Finel [Linkin link](https://www.linkedin.com/in/dan-finel/) and Tal Ramon [Linkin link](https://www.linkedin.com/in/talramon/).
+Nick Mishkin [Linkdin](https://www.linkedin.com/in/nickmishkin/), Dan Finel [Linkdin](https://www.linkedin.com/in/dan-finel/) and Tal Ramon [Linkdin](https://www.linkedin.com/in/talramon/).
 
 
 # License
